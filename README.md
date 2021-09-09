@@ -1,1 +1,1 @@
-# unit-3-mini-project
+# Rock Paper Scissors game.
